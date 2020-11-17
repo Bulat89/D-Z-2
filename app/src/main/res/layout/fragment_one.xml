@@ -8,7 +8,7 @@
 
 
     <Button
-        android:text="НАжать для ошибки"
+        android:text="@string/Weather"
         android:id="@+id/button_one"
         android:layout_width="match_parent"
         android:layout_height="200dp"
